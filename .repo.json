@@ -1,0 +1,6 @@
+{
+  "name": "riftech-case-study",
+  "description": "Case study: Driftech (Rif-Tech), a Flutter car-financing app for Egypt with a car marketplace, a live finance calculator with a custom-painted gauge, four financing programs, a TTS chat-style car-matching quiz and application tracking. Arabic and English",
+  "topics": ["flutter", "case-study", "fintech", "auto-finance", "bloc", "dio", "custompainter", "flutter-tts", "arabic", "rtl"],
+  "homepage": null
+}

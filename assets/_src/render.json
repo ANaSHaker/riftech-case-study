@@ -1,0 +1,94 @@
+{
+  "outDir": "..",
+  "brand": {
+    "name": "Driftech",
+    "tagline": "Car financing for Egypt: pick any car, get an installment plan, apply digitally.",
+    "accent": "#E73201",
+    "accent2": "#FF9207",
+    "logo": "D:/shaker-github/_work/brand/riftech.png",
+    "dark": true
+  },
+  "images": [
+    {
+      "type": "banner",
+      "file": "banner.png",
+      "kicker": "Case Study · Auto FinTech (Rif-Tech)",
+      "subtitle": "Drive today, pay your way: car marketplace, finance calculator and digital applications.",
+      "screens": [
+        "D:/shaker-github/_work/shots_padded/riftech/07_drift_now.png",
+        "D:/shaker-github/_work/shots_padded/riftech/03_calculator_gauge.png",
+        "D:/shaker-github/_work/shots_padded/riftech/05_buy_your_car.png"
+      ],
+      "devices": [
+        "android",
+        "iphone",
+        "android"
+      ],
+      "chips": [
+        "Flutter",
+        "Cubit",
+        "Dio",
+        "CustomPainter",
+        "TTS",
+        "AR / EN"
+      ]
+    },
+    {
+      "type": "gallery",
+      "file": "screens-journey.png",
+      "title": "From choosing a program to applying for finance",
+      "screens": [
+        "D:/shaker-github/_work/shots_padded/riftech/00_language.png",
+        "D:/shaker-github/_work/shots_padded/riftech/01_onboarding.png",
+        "D:/shaker-github/_work/shots_padded/riftech/07_drift_now.png",
+        "D:/shaker-github/_work/shots_padded/riftech/05_buy_your_car.png",
+        "D:/shaker-github/_work/shots_padded/riftech/09_car_details_finance.png"
+      ],
+      "device": "mixed",
+      "cols": 5,
+      "css": ".grain:after{display:none}"
+    },
+    {
+      "type": "gallery",
+      "file": "screens-app.png",
+      "title": "Light & dark themes, full Arabic RTL",
+      "screens": [
+        "D:/shaker-github/_work/shots_padded/riftech/04_purchase_steps.png",
+        "D:/shaker-github/_work/shots_padded/riftech/08_financing_status.png",
+        "D:/shaker-github/_work/shots_padded/riftech/11_profile_light.png",
+        "D:/shaker-github/_work/shots_padded/riftech/13_calculator_light.png",
+        "D:/shaker-github/_work/shots_padded/riftech/21_ar_calculator.png"
+      ],
+      "devices": [
+        "iphone",
+        "android",
+        "iphone",
+        "android",
+        "iphone"
+      ],
+      "cols": 5,
+      "css": ".grain:after{display:none}"
+    },
+    {
+      "type": "feature",
+      "file": "feature-calculator.png",
+      "kicker": "Signature feature",
+      "title": "Finance calculator with a live gauge",
+      "points": [
+        "Monthly installment updates as you type",
+        "Custom-painted gauge driven by the loan term",
+        "Per-car plans with tenure & down-payment sliders",
+        "One tap from estimate to a finance application"
+      ],
+      "screens": [
+        "D:/shaker-github/_work/shots_padded/riftech/03_calculator_gauge.png",
+        "D:/shaker-github/_work/shots_padded/riftech/09_car_details_finance.png"
+      ],
+      "devices": [
+        "iphone",
+        "android"
+      ],
+      "css": ".grain:after{display:none}"
+    }
+  ]
+}
